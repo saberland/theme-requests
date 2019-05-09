@@ -1,2 +1,3 @@
-# theme-request
-Request a Saber theme!
+# Theme Requests
+
+[Request a Saber theme!](https://github.com/saberland/theme-requests/issues/new)
