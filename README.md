@@ -1,7 +1,7 @@
 # Theme Requests
 
 
-Before asking for help from others, you can try making a Saber theme yourself! It's easy and fun 😏
+Before asking others for help, you can try making a Saber theme yourself! It's easy and fun 😏
 
 If you somehow can't make it yourself, then:
 
